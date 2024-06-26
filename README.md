@@ -7,7 +7,7 @@ My deep-learning solution to a Fine-Grained Visual Categorization FGVC8 workshop
 **Models used:**   
 -ResNet50    
 -EfficientNetB4   
--VIT_patch16_224
+-VIT_patch16_224  
 -VIT_patch14_514
 
 Challenge: [link](https://www.kaggle.com/competitions/plant-pathology-2020-fgvc7)  
